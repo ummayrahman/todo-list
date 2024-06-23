@@ -12,5 +12,5 @@ This is a simple to-do list application.
 - Mark tasks as completed by clicking the checkbox.
 - Delete tasks by clicking the delete button.
 
-[Demo]([file:///Users/ummayrahman/Desktop/To%20do%20List/index.html](https://raw.githubusercontent.com/ummayrahman/todo-list/main/To%20do%20List/index.html))
+[Demo]([[file:///Users/ummayrahman/Desktop/To%20do%20List/index.html](https://raw.githubusercontent.com/ummayrahman/todo-list/main/To%20do%20List/index.html)](https://ummayrahman.github.io/todo-list/))
 ![Screenshot of My To-Do List Site](ss.png)
