@@ -12,3 +12,4 @@ This is a simple to-do list application.
 - Mark tasks as completed by clicking the checkbox.
 - Delete tasks by clicking the delete button.
 
+![Screenshot of My To-Do List Site](ss.png)
