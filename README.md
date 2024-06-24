@@ -13,4 +13,5 @@ This is a simple to-do list application.
 - Delete tasks by clicking the delete button.
 
 [Demo](https://profound-baklava-0b1927.netlify.app/)
+
 ![Screenshot of My To-Do List Site](ss.png)
